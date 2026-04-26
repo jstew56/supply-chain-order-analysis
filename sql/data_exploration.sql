@@ -1,6 +1,6 @@
 /* ============================================================
 Project: Supply Chain Order Analysis
-Tool: SQL (Star Schema Join)
+Tool: Snowflake SQL (Star Schema Join)
 Author: Jessica Stewart
 
 Business Objective:
