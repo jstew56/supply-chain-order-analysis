@@ -29,7 +29,7 @@ The objective was to evaluate **revenue performance, customer behavior, and supp
 ![SQL Results](sql/sql-query-results.png)
 
 ### Revenue by Supplier
-![Revenue](images/revenue-by-supplier.png)
+![Revenue](sql/revenue-by-supplier.png)
 
 ---
 
