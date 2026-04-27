@@ -26,7 +26,7 @@ The objective was to evaluate **revenue performance, customer behavior, and supp
 ## Sample Output
 
 ### SQL Join Query & Results
-![SQL Results](images/sql-query-results.png)
+![SQL Results](sql/sql-query-results.png)
 
 ### Revenue by Supplier
 ![Revenue](images/revenue-by-supplier.png)
